@@ -1,0 +1,45 @@
+C:\WBoxTestApp\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe.config
+C:\WBoxTestApp\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe
+C:\WBoxTestApp\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.pdb
+C:\WBoxTestApp\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csprojResolveAssemblyReference.cache
+C:\WBoxTestApp\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.FormCalculator.resources
+C:\WBoxTestApp\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.Properties.Resources.resources
+C:\WBoxTestApp\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csproj.GenerateResource.Cache
+C:\WBoxTestApp\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.exe
+C:\WBoxTestApp\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.pdb
+\\Client\E$\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe.config
+\\Client\E$\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.exe
+\\Client\E$\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.pdb
+\\Client\E$\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csprojResolveAssemblyReference.cache
+\\Client\E$\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.FormCalculator.resources
+\\Client\E$\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.Properties.Resources.resources
+\\Client\E$\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csproj.GenerateResource.Cache
+\\Client\E$\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe
+\\Client\E$\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe.config
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csprojResolveAssemblyReference.cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.FormCalculator.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.Properties.Resources.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csproj.GenerateResource.Cache
+E:\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe.config
+E:\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.exe
+E:\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.pdb
+E:\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe
+E:\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.pdb
+E:\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csprojResolveAssemblyReference.cache
+E:\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.FormCalculator.resources
+E:\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.Properties.Resources.resources
+E:\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\Flash Drive Dump\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe.config
+C:\Users\Joseph\Documents\Flash Drive Dump\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.exe
+C:\Users\Joseph\Documents\Flash Drive Dump\RPN_Calculator\RPN_Calculator\bin\Debug\RPN_Calculator.pdb
+C:\Users\Joseph\Documents\Flash Drive Dump\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\Flash Drive Dump\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.FormCalculator.resources
+C:\Users\Joseph\Documents\Flash Drive Dump\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.Properties.Resources.resources
+C:\Users\Joseph\Documents\Flash Drive Dump\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\Flash Drive Dump\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.exe
+C:\Users\Joseph\Documents\Flash Drive Dump\RPN_Calculator\RPN_Calculator\obj\Debug\RPN_Calculator.pdb
